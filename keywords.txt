@@ -1,0 +1,31 @@
+###########################################
+# Syntax Coloring Map For IRRemoteControl #
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)                    #
+###########################################
+
+IRRemoteControl	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)        #
+###########################################
+
+enable	KEYWORD2
+pair	KEYWORD2
+check	KEYWORD2
+
+##########################################
+# Constants (LITERAL1)                   #
+##########################################
+
+POWER	LITERAL1
+A	LITERAL1
+B	LITERAL1
+C	LITERAL1
+UP	LITERAL1
+DOWN	LITERAL1
+LEFT	LITERAL1
+RIGHT	LITERAL1
+SELECT	LITERAL1
