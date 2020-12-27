@@ -5,7 +5,7 @@ This is a wrapper on the [`IRremote`](https://github.com/shirriff/Arduino-IRremo
 
 If you wanna know more about IR, you can read [Ken Shirriff's blog post](http://www.righto.com/2009/08/multi-protocol-infrared-remote-library.html) about his IRremote library and/or the tutorial on [IR Communication](https://learn.sparkfun.com/tutorials/ir-communication/getting-started) from Sparkfun.
 
-![project](http://i859.photobucket.com/albums/ab154/lampnick67/project_zpsf8955b1a.png)
+![project](https://raw.githubusercontent.com/wiki/nlamprian/IRRemoteControl/assets/remote.png)
 
 The library has been set up for the [IR Remote Control](https://www.sparkfun.com/products/11759) from Sparkfun, but it can easily support other remotes by updating the `button`, `numButtons` and `address` variables in the `IRRemoteControl.h` file. To find the commands sent by your remote, you will have to run either the `IRrecvDump` or `IRrecord` example from the [`IRremote`](https://github.com/shirriff/Arduino-IRremote) library.
 
@@ -28,7 +28,7 @@ Examples
 The library has two accompanying examples.
 
 * One is the `IRControlTest` example and it's a dummy sketch to test that your system (Arduino-IR Receiver-IR Remote) is working properly.
-* The other is the `IRLEDStrip` example that implements a remote for controlling an [LED Strip](http://i859.photobucket.com/albums/ab154/lampnick67/project_zpsf8955b1a.png). For details on how the buttons function, read the comments in the code.
+* The other is the `IRLEDStrip` example that implements a remote for controlling an [LED Strip](https://raw.githubusercontent.com/wiki/nlamprian/IRRemoteControl/assets/remote.png). For details on how the buttons function, read the comments in the code.
 
 ===
 

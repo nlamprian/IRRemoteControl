@@ -1,6 +1,6 @@
 /**
  * Name: IRRemoteControl
- * Author: Nick Lamprianidis (paign10.ln@gmail.com)
+ * Author: Nick Lamprianidis <nlamprian@gmail.com>
  * Version: 1.0
  * Description: This is a wrapper on the IRremote library that enables
  *              a more natural way of setting up the IR Remote Control
